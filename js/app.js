@@ -42,6 +42,9 @@ const request = (method, path) => {
         }
     };
 
+    if (url.slice(-1) == '/') {
+        url = url.slice(0, -1);
+    }
 
     return {
         async then(...params) {
