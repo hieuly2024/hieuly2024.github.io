@@ -1,0 +1,60 @@
+@font-face {
+    font-family: baomoi;
+    src: url('https://baomoi-static.bmcdn.me/web/styles/fonts/baomoi/2.0.2/baomoi-light-2.0.2.woff2')
+            format('woff2'),
+        url('https://baomoi-static.bmcdn.me/web/styles/fonts/baomoi/2.0.2/baomoi-light-2.0.2.woff')
+            format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: baomoi;
+    src: url('https://lehieu.info/assets/font/baomoi-light-italic-2.0.2.woff2')
+            format('woff2'),
+        url('https://lehieu.info/assets/font/baomoi-light-italic-2.0.2.woff')
+            format('woff');
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: baomoi;
+    src: url('https://lehieu.info/assets/font/baomoi-regular-2.0.2.woff2')
+            format('woff2'),
+        url('https://lehieu.info/assets/font/baomoi-regular-2.0.2.woff')
+            format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: baomoi;
+    src: url('https://lehieu.info/assets/font/baomoi-regular-2.0.2.woff2')
+            format('woff2'),
+        url('https://lehieu.info/assets/font/baomoi-regular-2.0.2.woff')
+            format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+/* 
+@font-face {
+    font-family: Baomoi;
+    src: url('https://lehieu.info/assets/font/baomoi-medium-2.0.2.woff2')
+            format('woff2'),
+        url('https://lehieu.info/assets/font/baomoi-medium-2.0.2.woff')
+            format('woff');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Baomoi;
+    src: url('https://lehieu.info/assets/font/baomoi-medium-2.0.2.woff2')
+            format('woff2'),
+        url('https://lehieu.info/assets/font/baomoi-medium-2.0.2.woff')
+            format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+} */
