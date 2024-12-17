@@ -16,6 +16,9 @@ section {
 .dark-section-1 {
     background-color: #212529 !important;
 }
+.dark-section-2  {
+    margin-bottom: 0 !important;
+}
 section {
     margin: 0;
     padding: 0;
